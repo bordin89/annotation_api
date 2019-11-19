@@ -1,5 +1,7 @@
 import ncbiblast
 import requests
+import os
+
 class parse_input_file(object):
     def sequences(self,input_file):
         seqs=[]
@@ -33,10 +35,11 @@ class retrieve_uniprot_target_id(object):
         feature_requestURL = BASE + FEATURE_ENDPOINT
         id_feature = requests.get(uniprot_id_requestURL, headers={ "Accept" : "text/x-gff"})
         id_json = requests.get(feature_requestURL, headers={ "Accept" : "application/json"})
-            if not id_json.ok or not id_feature:
-                id_json.raise_for_status()
-                id_feature.raise_for_status()
-                sys.exit()
+        if not id_json.ok or not id_feature:
+            id_json.raise_for_status()
+            id_feature.raise_for_status()
+            sys.exit()
+        
 
 
         
