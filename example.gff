@@ -1,0 +1,177 @@
+##gff-version 3
+##sequence-region B8D9R6 1 273
+B8D9R6	UniProtKB	Chain	1	273	.	.	.	ID=PRO_1000124877;Note=Shikimate dehydrogenase (NADP(+))	
+B8D9R6	UniProtKB	Nucleotide binding	131	135	.	.	.	Note=NADP;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00222	
+B8D9R6	UniProtKB	Region	19	21	.	.	.	Note=Shikimate binding;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00222	
+B8D9R6	UniProtKB	Active site	70	70	.	.	.	Note=Proton acceptor;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00222	
+B8D9R6	UniProtKB	Binding site	66	66	.	.	.	Note=Shikimate;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00222	
+B8D9R6	UniProtKB	Binding site	91	91	.	.	.	Note=Shikimate;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00222	
+B8D9R6	UniProtKB	Binding site	107	107	.	.	.	Note=Shikimate;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00222	
+B8D9R6	UniProtKB	Binding site	218	218	.	.	.	Note=NADP%3B via carbonyl oxygen;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00222	
+B8D9R6	UniProtKB	Binding site	220	220	.	.	.	Note=Shikimate;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00222	
+B8D9R6	UniProtKB	Binding site	242	242	.	.	.	Note=NADP%3B via carbonyl oxygen;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00222	
+##sequence-region Q96IY4 1 423
+Q96IY4	UniProtKB	Signal peptide	1	22	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q96IY4	UniProtKB	Propeptide	23	114	.	.	.	ID=PRO_0000004377;Note=Activation peptide	
+Q96IY4	UniProtKB	Chain	115	423	.	.	.	ID=PRO_0000004378;Note=Carboxypeptidase B2	
+Q96IY4	UniProtKB	Region	181	184	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P00730	
+Q96IY4	UniProtKB	Region	256	257	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P00730	
+Q96IY4	UniProtKB	Region	311	312	.	.	.	Note=Substrate binding;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P00730	
+Q96IY4	UniProtKB	Active site	385	385	.	.	.	Note=Proton donor/acceptor;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P00732	
+Q96IY4	UniProtKB	Metal binding	181	181	.	.	.	Note=Zinc%3B catalytic;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18559974,ECO:0000269|PubMed:20088943;Dbxref=PMID:18559974,PMID:20088943	
+Q96IY4	UniProtKB	Metal binding	184	184	.	.	.	Note=Zinc%3B catalytic;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18559974,ECO:0000269|PubMed:20088943;Dbxref=PMID:18559974,PMID:20088943	
+Q96IY4	UniProtKB	Metal binding	310	310	.	.	.	Note=Zinc%3B catalytic;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18559974,ECO:0000269|PubMed:20088943;Dbxref=PMID:18559974,PMID:20088943	
+Q96IY4	UniProtKB	Binding site	239	239	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P00730	
+Q96IY4	UniProtKB	Binding site	363	363	.	.	.	Note=Substrate;Ontology_term=ECO:0000250;evidence=ECO:0000250|UniProtKB:P00730	
+Q96IY4	UniProtKB	Site	324	325	.	.	.	Note=Cleavage%3B by thrombin	
+Q96IY4	UniProtKB	Glycosylation	44	44	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16335952,ECO:0000269|PubMed:16445295,ECO:0000269|PubMed:18559974;Dbxref=PMID:16335952,PMID:16445295,PMID:18559974	
+Q96IY4	UniProtKB	Glycosylation	73	73	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16335952,ECO:0000269|PubMed:16445295,ECO:0000269|PubMed:18559974;Dbxref=PMID:16335952,PMID:16445295,PMID:18559974	
+Q96IY4	UniProtKB	Glycosylation	85	85	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16445295,ECO:0000269|PubMed:18559974;Dbxref=PMID:16445295,PMID:18559974	
+Q96IY4	UniProtKB	Glycosylation	108	108	.	.	.	Note=N-linked (GlcNAc...) (complex) asparagine;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:16335952,ECO:0000269|PubMed:16445295,ECO:0000269|PubMed:18559974,ECO:0000269|PubMed:19159218,ECO:0000269|PubMed:22171320;Dbxref=PMID:16335952,PMID:16445295,PMID:18559974,PMID:19159218,PMID:22171320	
+Q96IY4	UniProtKB	Glycosylation	241	241	.	.	.	Note=N-linked (GlcNAc...) asparagine%3B partial;Ontology_term=ECO:0000269;evidence=ECO:0000269|PubMed:16445295;Dbxref=PMID:16445295	
+Q96IY4	UniProtKB	Disulfide bond	178	191	.	.	.	Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18559974,ECO:0000269|PubMed:20088943;Dbxref=PMID:18559974,PMID:20088943	
+Q96IY4	UniProtKB	Disulfide bond	250	274	.	.	.	Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18559974,ECO:0000269|PubMed:20088943;Dbxref=PMID:18559974,PMID:20088943	
+Q96IY4	UniProtKB	Disulfide bond	265	279	.	.	.	Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:18559974,ECO:0000269|PubMed:20088943;Dbxref=PMID:18559974,PMID:20088943	
+Q96IY4	UniProtKB	Alternative sequence	198	234	.	.	.	ID=VSP_013446;Note=In isoform 2. Missing;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.2	
+Q96IY4	UniProtKB	Alternative sequence	384	423	.	.	.	ID=VSP_013447;Note=In isoform 2. IELRDTGTYGFLLPERYIKPTCREAFAAVSKIAWHVIRNV->SNPPVEKLLPLSLK;Ontology_term=ECO:0000303;evidence=ECO:0000303|Ref.2	
+Q96IY4	UniProtKB	Natural variant	169	169	.	.	.	ID=VAR_032565;Note=A->T;Ontology_term=ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:1939207;Dbxref=dbSNP:rs3742264,PMID:14702039,PMID:1939207	
+Q96IY4	UniProtKB	Natural variant	347	347	.	.	.	ID=VAR_022258;Note=I->T;Ontology_term=ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269,ECO:0000269;evidence=ECO:0000269|PubMed:14702039,ECO:0000269|PubMed:15489334,ECO:0000269|PubMed:1939207,ECO:0000269|Ref.3,ECO:0000269|Ref.5;Dbxref=dbSNP:rs1926447,PMID:14702039,PMID:15489334,PMID:1939207	
+Q96IY4	UniProtKB	Sequence conflict	25	25	.	.	.	Note=S->T;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+Q96IY4	UniProtKB	Beta strand	26	31	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P10	
+Q96IY4	UniProtKB	Helix	36	48	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P10	
+Q96IY4	UniProtKB	Beta strand	51	58	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P10	
+Q96IY4	UniProtKB	Helix	59	61	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P10	
+Q96IY4	UniProtKB	Beta strand	68	73	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P10	
+Q96IY4	UniProtKB	Helix	74	76	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P10	
+Q96IY4	UniProtKB	Helix	77	87	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P10	
+Q96IY4	UniProtKB	Beta strand	91	96	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P10	
+Q96IY4	UniProtKB	Helix	98	107	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P10	
+Q96IY4	UniProtKB	Turn	108	110	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P10	
+Q96IY4	UniProtKB	Helix	117	121	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P10	
+Q96IY4	UniProtKB	Helix	126	139	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P10	
+Q96IY4	UniProtKB	Turn	141	143	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P10	
+Q96IY4	UniProtKB	Beta strand	144	151	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P10	
+Q96IY4	UniProtKB	Beta strand	157	163	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P10	
+Q96IY4	UniProtKB	Beta strand	172	177	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P10	
+Q96IY4	UniProtKB	Helix	186	201	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P10	
+Q96IY4	UniProtKB	Turn	202	204	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P10	
+Q96IY4	UniProtKB	Helix	206	214	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P10	
+Q96IY4	UniProtKB	Beta strand	215	221	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P10	
+Q96IY4	UniProtKB	Helix	225	233	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P10	
+Q96IY4	UniProtKB	Helix	255	257	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P10	
+Q96IY4	UniProtKB	Turn	262	265	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P10	
+Q96IY4	UniProtKB	Beta strand	269	271	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P10	
+Q96IY4	UniProtKB	Helix	287	298	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P10	
+Q96IY4	UniProtKB	Turn	299	302	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P10	
+Q96IY4	UniProtKB	Beta strand	303	319	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P10	
+Q96IY4	UniProtKB	Beta strand	321	325	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3LMS	
+Q96IY4	UniProtKB	Helix	330	347	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P10	
+Q96IY4	UniProtKB	Beta strand	354	358	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P10	
+Q96IY4	UniProtKB	Turn	359	362	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P10	
+Q96IY4	UniProtKB	Helix	369	374	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P10	
+Q96IY4	UniProtKB	Turn	375	377	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P10	
+Q96IY4	UniProtKB	Beta strand	380	387	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P10	
+Q96IY4	UniProtKB	Beta strand	389	392	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P10	
+Q96IY4	UniProtKB	Helix	393	395	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:3D68	
+Q96IY4	UniProtKB	Helix	398	400	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P10	
+Q96IY4	UniProtKB	Helix	401	422	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:4P10	
+##sequence-region Q75IW1 1 458
+Q75IW1	UniProtKB	Signal peptide	1	29	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q75IW1	UniProtKB	Chain	30	458	.	.	.	ID=PRO_0000247631;Note=COBRA-like protein 2	
+Q75IW1	UniProtKB	Transmembrane	430	450	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q75IW1	UniProtKB	Glycosylation	38	38	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q75IW1	UniProtKB	Glycosylation	163	163	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q75IW1	UniProtKB	Glycosylation	171	171	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q75IW1	UniProtKB	Glycosylation	211	211	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q75IW1	UniProtKB	Glycosylation	236	236	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q75IW1	UniProtKB	Glycosylation	318	318	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q75IW1	UniProtKB	Glycosylation	333	333	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q75IW1	UniProtKB	Glycosylation	352	352	.	.	.	Note=N-linked (GlcNAc...) asparagine;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+##sequence-region B8FZ33 1 132
+B8FZ33	UniProtKB	Chain	1	132	.	.	.	ID=PRO_1000146325;Note=ATP synthase epsilon chain	
+##sequence-region P08673 1 398
+P08673	UniProtKB	Signal peptide	1	19	.	.	.	Ontology_term=ECO:0000305;evidence=ECO:0000305	
+P08673	UniProtKB	Chain	20	398	.	.	.	ID=PRO_0000024522;Note=Circumsporozoite protein	
+P08673	UniProtKB	Repeat	97	105	.	.	.	Note=1	
+P08673	UniProtKB	Repeat	106	114	.	.	.	Note=2	
+P08673	UniProtKB	Repeat	115	123	.	.	.	Note=3	
+P08673	UniProtKB	Repeat	124	132	.	.	.	Note=4	
+P08673	UniProtKB	Repeat	133	141	.	.	.	Note=5	
+P08673	UniProtKB	Repeat	142	150	.	.	.	Note=6	
+P08673	UniProtKB	Repeat	151	159	.	.	.	Note=7	
+P08673	UniProtKB	Repeat	160	168	.	.	.	Note=8	
+P08673	UniProtKB	Repeat	169	177	.	.	.	Note=9	
+P08673	UniProtKB	Repeat	178	186	.	.	.	Note=10	
+P08673	UniProtKB	Repeat	187	195	.	.	.	Note=11	
+P08673	UniProtKB	Repeat	196	204	.	.	.	Note=12	
+P08673	UniProtKB	Repeat	205	213	.	.	.	Note=13	
+P08673	UniProtKB	Repeat	214	222	.	.	.	Note=14	
+P08673	UniProtKB	Repeat	223	231	.	.	.	Note=15	
+P08673	UniProtKB	Repeat	232	240	.	.	.	Note=16	
+P08673	UniProtKB	Repeat	241	249	.	.	.	Note=17	
+P08673	UniProtKB	Domain	324	376	.	.	.	Note=TSP type-1;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU00210	
+P08673	UniProtKB	Region	97	249	.	.	.	Note=17 X 9 AA tandem repeats of A-G-N-N-A-A-[AG]-G-[EA]	
+##sequence-region P10994 1 125
+P10994	UniProtKB	Chain	1	125	.	.	.	ID=PRO_0000089055;Note=Actin%2C alpha skeletal muscle	
+P10994	UniProtKB	Non-terminal residue	1	1	.	.	.	.	
+##sequence-region D8VNS1 1 239
+D8VNS1	UniProtKB	Signal peptide	1	18	.	.	.	Ontology_term=ECO:0000250;evidence=ECO:0000250	
+D8VNS1	UniProtKB	Chain	19	239	.	.	.	ID=PRO_0000414915;Note=Cysteine-rich venom protein	
+D8VNS1	UniProtKB	Domain	37	165	.	.	.	Note=SCP	
+D8VNS1	UniProtKB	Domain	201	234	.	.	.	Note=ShKT;Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01005	
+D8VNS1	UniProtKB	Disulfide bond	74	152	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01005	
+D8VNS1	UniProtKB	Disulfide bond	91	166	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01005	
+D8VNS1	UniProtKB	Disulfide bond	147	163	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01005	
+D8VNS1	UniProtKB	Disulfide bond	185	192	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01005	
+D8VNS1	UniProtKB	Disulfide bond	188	197	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01005	
+D8VNS1	UniProtKB	Disulfide bond	210	228	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01005	
+D8VNS1	UniProtKB	Disulfide bond	219	232	.	.	.	Ontology_term=ECO:0000255;evidence=ECO:0000255|PROSITE-ProRule:PRU01005	
+D8VNS1	UniProtKB	Sequence conflict	23	23	.	.	.	Note=Q->R;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+D8VNS1	UniProtKB	Sequence conflict	30	30	.	.	.	Note=T->I;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+D8VNS1	UniProtKB	Sequence conflict	70	239	.	.	.	Note=Missing;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+D8VNS1	UniProtKB	Sequence conflict	207	207	.	.	.	Note=F->L;Ontology_term=ECO:0000305;evidence=ECO:0000305	
+##sequence-region P98052 1 135
+P98052	UniProtKB	Chain	1	135	.	.	.	ID=PRO_0000183721;Note=Cytochrome c oxidase subunit 2	
+P98052	UniProtKB	Metal binding	81	81	.	.	.	Note=Copper A	
+P98052	UniProtKB	Metal binding	116	116	.	.	.	Note=Copper A	
+P98052	UniProtKB	Metal binding	120	120	.	.	.	Note=Copper A	
+P98052	UniProtKB	Metal binding	124	124	.	.	.	Note=Copper A	
+P98052	UniProtKB	Non-terminal residue	1	1	.	.	.	.	
+P98052	UniProtKB	Helix	3	5	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FWL	
+P98052	UniProtKB	Helix	7	11	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FWL	
+P98052	UniProtKB	Beta strand	15	19	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LLN	
+P98052	UniProtKB	Turn	22	27	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CUA	
+P98052	UniProtKB	Turn	30	32	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CUA	
+P98052	UniProtKB	Helix	34	36	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CUA	
+P98052	UniProtKB	Beta strand	38	42	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CUA	
+P98052	UniProtKB	Beta strand	45	53	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CUA	
+P98052	UniProtKB	Beta strand	56	65	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CUA	
+P98052	UniProtKB	Beta strand	68	79	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CUA	
+P98052	UniProtKB	Beta strand	81	85	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CUA	
+P98052	UniProtKB	Turn	86	89	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LLN	
+P98052	UniProtKB	Beta strand	91	94	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CUA	
+P98052	UniProtKB	Beta strand	96	99	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2LLN	
+P98052	UniProtKB	Beta strand	100	105	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CUA	
+P98052	UniProtKB	Beta strand	110	115	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CUA	
+P98052	UniProtKB	Helix	124	126	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2FWL	
+P98052	UniProtKB	Beta strand	128	134	.	.	.	Ontology_term=ECO:0000244;evidence=ECO:0000244|PDB:2CUA	
+##sequence-region Q7IZ16 1 227
+Q7IZ16	UniProtKB	Chain	1	227	.	.	.	ID=PRO_0000254942;Note=Cytochrome c oxidase subunit 2	
+Q7IZ16	UniProtKB	Topological domain	1	26	.	.	.	Note=Mitochondrial intermembrane;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q7IZ16	UniProtKB	Transmembrane	27	48	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q7IZ16	UniProtKB	Topological domain	49	62	.	.	.	Note=Mitochondrial matrix;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q7IZ16	UniProtKB	Transmembrane	63	82	.	.	.	Note=Helical;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q7IZ16	UniProtKB	Topological domain	83	227	.	.	.	Note=Mitochondrial intermembrane;Ontology_term=ECO:0000255;evidence=ECO:0000255	
+Q7IZ16	UniProtKB	Metal binding	161	161	.	.	.	Note=Copper A;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q7IZ16	UniProtKB	Metal binding	196	196	.	.	.	Note=Copper A;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q7IZ16	UniProtKB	Metal binding	200	200	.	.	.	Note=Copper A;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+Q7IZ16	UniProtKB	Metal binding	204	204	.	.	.	Note=Copper A;Ontology_term=ECO:0000250;evidence=ECO:0000250	
+##sequence-region C1DBU8 1 366
+C1DBU8	UniProtKB	Chain	1	366	.	.	.	ID=PRO_1000132776;Note=Chorismate synthase	
+C1DBU8	UniProtKB	Nucleotide binding	125	127	.	.	.	Note=FMN;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00300	
+C1DBU8	UniProtKB	Nucleotide binding	238	239	.	.	.	Note=FMN;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00300	
+C1DBU8	UniProtKB	Nucleotide binding	293	297	.	.	.	Note=FMN;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00300	
+C1DBU8	UniProtKB	Binding site	48	48	.	.	.	Note=NADP;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00300	
+C1DBU8	UniProtKB	Binding site	54	54	.	.	.	Note=NADP;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00300	
+C1DBU8	UniProtKB	Binding site	278	278	.	.	.	Note=FMN%3B via amide nitrogen;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00300	
+C1DBU8	UniProtKB	Binding site	319	319	.	.	.	Note=FMN;Ontology_term=ECO:0000255;evidence=ECO:0000255|HAMAP-Rule:MF_00300	
