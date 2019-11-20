@@ -13,7 +13,9 @@ def _raiser(req: requests.Response) -> None:
     try:
         req.raise_for_status()
     except requests.HTTPError as err:
-        logging.exception(f'HTTP request had error response. Message: {err}')
+        logging.exception(f'''HTTP request had error response.
+HTTP Error: {err}
+NCBI Error: {req.text}''')
         sys.exit(1)
 
 
@@ -54,12 +56,12 @@ def blast(email: str, title: str, sequence: str, expectation_value: str = '1e-5'
     req = requests.post(url, data=params)
     _raiser(req)
 
-    return get_result_for_id(req.text, polling_frequency)
+    return _get_result_for_id(req.text, polling_frequency)
 
 
-def get_result_for_id(job_id: str, polling_frequency) -> str:
+def _get_result_for_id(job_id: str, polling_frequency) -> str:
 
-    print(f'Getting results for {job_id}')
+    logging.debug(f'Getting results for {job_id}')
     # Polls until job is complete
     _poll_id(job_id, polling_frequency)
 
